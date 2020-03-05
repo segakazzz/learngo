@@ -20,8 +20,11 @@ import "fmt"
 // ---------------------------------------------------------
 
 func main() {
-	fmt.Println("hello")
+	fmt.Println("hello") // Comment here
 	fmt.Println("how")
 	fmt.Println("are")
 	fmt.Println("you")
+	/*
+		Another comment...
+	*/
 }

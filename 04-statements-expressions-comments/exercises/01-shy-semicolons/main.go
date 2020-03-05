@@ -18,5 +18,9 @@ package main
 //
 // ---------------------------------------------------------
 
+import "fmt"
+
 func main() {
+	fmt.Println("Sasatani")
+	fmt.Println("Kazue")
 }
